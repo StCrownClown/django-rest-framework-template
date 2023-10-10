@@ -1,0 +1,11 @@
+*.pyc
+/static
+
+.idea
+.vscode/launch.json
+Pipfile
+Pipfile.lock
+
+.coverage
+coverage.xml
+debug.log

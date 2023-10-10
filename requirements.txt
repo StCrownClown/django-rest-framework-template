@@ -1,0 +1,13 @@
+Django 
+dj_rest_auth
+djangorestframework-simplejwt
+djangorestframework
+psycopg2
+django-cryptography
+Pillow
+python-decouple
+pycryptodome
+boto3
+django-allauth
+drf_yasg
+django-cors-headers
