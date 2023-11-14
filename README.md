@@ -1,8 +1,8 @@
-# marketplace/flowers script
+# script
 
 python manage.py makemigrations
 
-python manage.py makemigrations accounts flowers
+python manage.py makemigrations accounts
 
 python manage.py migrate
 
